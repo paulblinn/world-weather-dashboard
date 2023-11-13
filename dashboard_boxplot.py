@@ -1,4 +1,4 @@
-# This Python code generates a box plot on the dashboard. 
+# This Python code generates the box plot on the dashboard. 
 # Power BI automatically creates a Pandas DataFrame stored in the 'dataset' variable containing the columns I selected.
 # Whenever data is filtered on the dashboard, Power BI re-executes this code to update the box plot.
 
